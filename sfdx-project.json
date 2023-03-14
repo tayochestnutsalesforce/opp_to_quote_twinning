@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "CPQ Opp to Quote Twinning",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
+    }
+  ],
+  "name": "opp_to_quote_twinning",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+ }
+}
